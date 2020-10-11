@@ -20,7 +20,6 @@ body {
 .sidebar {
   background: #1e2939;
   width: 370px;
-  padding-top: 40px;
   padding-bottom: 40px;
 }
 
@@ -29,8 +28,8 @@ body {
 }
 
 .about-me-container {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 110px;
+  padding-right: 110px;
   padding-top: 70px;
   padding-bottom: 70px;
 }
@@ -53,7 +52,7 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #616974;
+  color: #a0a0a0;
 }
 
 .contacts-item {
