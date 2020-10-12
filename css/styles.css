@@ -29,8 +29,10 @@ body {
 .about-me-container {
   padding-left: 110px;
   padding-right: 110px;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 45px;
+  /* padding-top: 70px; */
+  padding-bottom: 45px;
+  /* padding-bottom: 70px; */
 }
 
 .contacts-container {
@@ -191,7 +193,11 @@ body {
   color: #000000;
 }
 .work-experience {
-  margin-bottom: 55px;
+  margin-bottom: 40px;
+}
+
+.work-experience-container:not(:last-child) {
+  margin-bottom: 40px;
 }
 
 .profession-duties-item {
@@ -205,6 +211,8 @@ body {
   font-weight: 700;
   line-height: 24px;
   color: #ff6b08;
+
+  display: block;
   margin-bottom: 15px;
 }
 .university-speciality {
