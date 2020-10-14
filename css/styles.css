@@ -19,7 +19,7 @@ body {
 
 .sidebar {
   background: #1e2939;
-  min-width: 370px;
+  max-width: 370px;
 }
 
 .my-photo {
